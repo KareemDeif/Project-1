@@ -319,7 +319,7 @@ text-transform: capitalize;
 
 .offer-item{
   text-align: left;
-  height: fit-content;
+  height: max-content;
 }
 .offer{
   margin-top: 170px;
