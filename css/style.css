@@ -633,7 +633,7 @@ font-weight: bold;
 .image-section-item p {
   font-size: 14px;
   line-height: 1.6;
-  color: #f7f7f7;
+  color:#f7f7f7;
 }
 
 /* ///////////////////////////////////////////PRICE SECTION////////////////////////////////////////////////////////// */
@@ -654,12 +654,12 @@ font-weight: bold;
   overflow: auto;
 }
 .team-item{
-  width: 300px;
+  width: 30%;
   height: 350px;
   position: relative;
   float: left;
   background-color: #e6e3e3;
-  margin-left: 4.3%;
+  margin-left: 2.5%;;
 }
 
 .team-imgcontent img{
