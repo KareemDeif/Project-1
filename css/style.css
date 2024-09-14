@@ -319,7 +319,7 @@ text-transform: capitalize;
 
 .offer-item{
   text-align: left;
-  height: max-content;
+  height: 200px;
 }
 .offer{
   margin-top: 170px;
@@ -690,7 +690,7 @@ font-weight: bold;
 .team-text{
   position: absolute;
   top: 190px;
-  left: 70px;
+  left: 26%;
   text-align: center;
   display: block;
 }
